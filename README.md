@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Dave
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning python
+
